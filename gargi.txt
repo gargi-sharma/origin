@@ -1,4 +1,6 @@
 insert 
 delete
 update
-table
+tabl
+chair
+e
