@@ -1,2 +1,4 @@
 docke
 jenkinsr
+ansible
+chef
