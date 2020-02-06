@@ -1,0 +1,6 @@
+insert 
+delete
+update
+tabl
+chair
+e
